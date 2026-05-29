@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifypalidate",
+        "uuid": 38063520,
+        "checksum": "5e8dxt"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
